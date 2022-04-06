@@ -6,7 +6,7 @@ This repository contains data that provides metrics to analyze which neighborhoo
 
 ## Member Data
 **Team Name:**  
-Indiana Jones But The Destination Is Eberly Hall
+Indiana Jones But The Destination Is Eberly Hall :)
 
 **Team Members:**  
 \- Isabel Knight, ikk8@pitt.edu  
