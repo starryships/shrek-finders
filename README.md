@@ -5,12 +5,13 @@ This repository contains data that provides metrics to analyze which neighborhoo
 
 
 ## Member Data
-**Team Name:** Indiana Jones But The Destination Is Eberly Hall
+**Team Name:**  
+Indiana Jones But The Destination Is Eberly Hall
 
-**Member Names & Emails:**
-- Isabel Knight, ikk8@pitt.edu  
-- Niam Noaman, nin42@pitt.edu  
-- Tabish Nusrat, tzn4@pitt.edu  
+**Team Members:**  
+\- Isabel Knight, ikk8@pitt.edu  
+\- Niam Noaman, nin42@pitt.edu  
+\- Tabish Nusrat, tzn4@pitt.edu  
 
 
 ## Links and Datasets
