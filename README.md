@@ -17,25 +17,25 @@ Indiana Jones But The Destination Is Eberly Hall!!!
 
 ## Links and Datasets
 
-**City Parks of Pittsburgh:**  
+**City Parks of Pittsburgh: Tabish**  
 Dataset containing the different parks in the city of Pittsburgh along with what neighborhoods they're in, what type of park they are, where they are, among other data values.
 
 https://data.wprdc.org/dataset/parks/resource/93f2401c-6642-4776-b4ae-354f19ad0e1e?inner_span=True
 
-**Pittsburgh Walkability:**  
+**Pittsburgh Walkability: Niam**  
 Shows the walkability scores of the different areas of Pittsburgh.
 
 https://data.wprdc.org/dataset/greenways/resource/28116520-b7d4-4895-9d4f-6b5c843a5650
 
-**Allegheny County Dog Licenses:**  
+**Allegheny County Dog Licenses: Izzy**  
 Dataset containing the list of dog licenses including dog names, breeds, and dog owner zipcodes throughout Allegheny County.
 
 https://data.wprdc.org/dataset/allegheny-county-dog-licenses/resource/e16d4ab3-842a-4f39-9ad7-ce5921002280
 
 ## Additional Datasets:
 
-**Neighborhoods in Pittsburgh:**
+**Neighborhoods in Pittsburgh: Tabish**
 https://data.wprdc.org/dataset/neighborhoods2
 
-**Census Tracts:**
+**Census Tracts: Niam**
 https://data.wprdc.org/dataset/2010-census-tracts
